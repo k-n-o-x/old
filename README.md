@@ -62,6 +62,15 @@ Read [this](https://telegram.dog/GreyMatter_Bots) before you start messing up wi
 * `SELF_DELETE_SECONDS`: Enter Seconds to be SELF_DELETE 
 * `START_TXT`: Enter Your Start Message
 * `ABOUT_TXT`: Enter Your About Message 
+## Deployment Methods
+<details><summary>Deploy To Heroku</summary>
+<p>
+<br>
+<a href="https://heroku.com/deploy?template=https://github.com/k-n-o-x/EvaMaria2">
+  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy To Heroku">
+</a>
+</p>
+</details>
 
 
 <details><summary>Deploy To Render {Free}</summary>
